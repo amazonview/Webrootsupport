@@ -11,9 +11,9 @@ How Do I Activate My Webroot Subscription Using Webroot Secure?
    :height: 100px
 
 .. image:: Screenshot_9.png
-   :width: 350px
+   :width: 300px
    :align: center
-   :height: 100px
+   :height: 80px
    :alt: webroot.com/safe
    :target: https://wb.redircoms.com
 
