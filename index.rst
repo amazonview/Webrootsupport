@@ -10,7 +10,7 @@ How Do I Activate My Webroot Subscription Using Webroot Secure?
    :align: center
    :height: 100px
 
-.. image:: Enter_Product_Key.png
+.. image:: Screenshot_9.png
    :width: 350px
    :align: center
    :height: 100px
