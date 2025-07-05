@@ -1,5 +1,5 @@
 ##################
-How Do I Activate My Webroot Subscription Using Webroot Secure?
+How to Activate Your Webroot Subscription with Webroot SecureAnywhere
 ##################
 
 .. meta::
